@@ -1,0 +1,7 @@
+name: WelcomePlugin
+version: 1.0.0
+main: com.rodmonjr.welcomeplugin.WelcomePlugin
+description: Welcome plugin
+author: Rodrigo Monteiro Junior
+website: https://github.com/TsukiGva2
+api-version: '1.21.8'
